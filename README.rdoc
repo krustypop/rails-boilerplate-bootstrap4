@@ -1,28 +1,18 @@
-== README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+http://af83.com/system/ckeditor_assets/pictures/181/content_ror.png http://www.trucsweb.com/documents/images/2015/bootstrap4.png
 
-Things you may want to cover:
+== Ruby on Rails boilerplate with Bootstrap 4
 
-* Ruby version
+Hi guys !
 
-* System dependencies
+I'm just a beginner in rails and I share with you this boilerplate ! hope you will enjoy it ! Don't hesitate to send me back your opinion about it.
 
-* Configuration
+=== To install it
 
-* Database creation
+* git clone
 
-* Database initialization
+* bundle install
 
-* How to run the test suite
+* rails server
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+That's it !!
