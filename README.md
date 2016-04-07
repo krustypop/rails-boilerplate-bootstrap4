@@ -16,6 +16,7 @@ Feel free to improve this code and above all don't hesitate to send me your feed
 * [ruby 2.3](https://www.ruby-lang.org/en/)
 * [rails 4.2.6](http://rubyonrails.org/)
 * [rspec 3.4.4](http://rspec.info/)
+* [bootstrap 4](http://v4-alpha.getbootstrap.com/)
 
 
 ## To set this up
