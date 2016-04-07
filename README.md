@@ -4,6 +4,8 @@
 ![alt text](http://af83.com/system/ckeditor_assets/pictures/181/content_ror.png "RoR")
 ![alt text](http://www.trucsweb.com/documents/images/2015/bootstrap4.png "Bootstrap4")
 
+---
+
 Hi guys !
 
 I'm just a beginner in rails and I share with you this boilerplate ! hope you will enjoy it !
@@ -18,22 +20,25 @@ Feel free to improve this code and above all don't hesitate to send me your feed
 
 ## To set this up
 
-Clone the repo
+Clone the repo:
 ```
 git clone https://github.com/krustypop/rails-boilerplate-bootstrap4.git
 ```
 
-Digg into it
+
+Digg into it:
 ```
 cd rails-boilerplate-bootstrap4
 ```
 
-Install all gems
+
+Install all gems:
 ```
 bundle install
 ```
 
-To infinity and beyond :)
+
+To infinity and beyond:
 ```
 rails server
 ```
