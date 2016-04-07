@@ -5,7 +5,8 @@ http://af83.com/system/ckeditor_assets/pictures/181/content_ror.png http://www.t
 
 Hi guys !
 
-I'm just a beginner in rails and I share with you this boilerplate ! hope you will enjoy it ! Don't hesitate to send me back your opinion about it.
+I'm just a beginner in rails and I share with you this boilerplate ! hope you will enjoy it !
+Feel free to improve this code and above all don't hesitate to send me your feedback :)
 
 === To install it
 
