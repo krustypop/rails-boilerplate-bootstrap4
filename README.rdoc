@@ -1,7 +1,7 @@
 
-http://af83.com/system/ckeditor_assets/pictures/181/content_ror.png http://www.trucsweb.com/documents/images/2015/bootstrap4.png
+== Ruby on Rails - Bootstrap 4 boilerplate
 
-== Ruby on Rails boilerplate with Bootstrap 4
+http://af83.com/system/ckeditor_assets/pictures/181/content_ror.png http://www.trucsweb.com/documents/images/2015/bootstrap4.png
 
 Hi guys !
 
@@ -10,7 +10,9 @@ Feel free to improve this code and above all don't hesitate to send me your feed
 
 === To install it
 
-* git clone
+* git clone https://github.com/krustypop/rails-boilerplate-bootstrap4.git
+
+* cd rails-boilerplate-bootstrap4
 
 * bundle install
 
