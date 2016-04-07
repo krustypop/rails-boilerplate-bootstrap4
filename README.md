@@ -1,7 +1,8 @@
 
 # Ruby on Rails - Bootstrap 4 boilerplate
 
-http://af83.com/system/ckeditor_assets/pictures/181/content_ror.png http://www.trucsweb.com/documents/images/2015/bootstrap4.png
+![alt text](http://af83.com/system/ckeditor_assets/pictures/181/content_ror.png "RoR")
+![alt text](http://www.trucsweb.com/documents/images/2015/bootstrap4.png "Bootstrap4")
 
 Hi guys !
 
