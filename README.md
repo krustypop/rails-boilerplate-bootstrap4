@@ -16,14 +16,27 @@ Feel free to improve this code and above all don't hesitate to send me your feed
 * [rspec 3.4.4](http://rspec.info/)
 
 
-## To install it
+## To set this up
 
-* git clone https://github.com/krustypop/rails-boilerplate-bootstrap4.git
+Clone the repo
+```
+git clone https://github.com/krustypop/rails-boilerplate-bootstrap4.git
+```
 
-* cd rails-boilerplate-bootstrap4
+Digg into it
+```
+cd rails-boilerplate-bootstrap4
+```
 
-* bundle install
+Install all gems
+```
+bundle install
+```
 
-* rails server
+To infinity and beyond :)
+```
+rails server
+```
+
 
 That's it !!
