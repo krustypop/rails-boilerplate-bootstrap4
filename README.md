@@ -1,7 +1,7 @@
 
-# Ruby on Rails - Bootstrap 4 boilerplate
-
 [![Build Status](https://travis-ci.org/krustypop/rails-boilerplate-bootstrap4.svg?branch=master)](https://travis-ci.org/krustypop/rails-boilerplate-bootstrap4)
+
+# Ruby on Rails - Bootstrap 4 boilerplate
 
 ![alt text](http://af83.com/system/ckeditor_assets/pictures/181/content_ror.png "RoR")
 ![alt text](http://www.trucsweb.com/documents/images/2015/bootstrap4.png "Bootstrap4")
